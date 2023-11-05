@@ -30,7 +30,6 @@ from audiocraft.models import MusicGen, AudioGen
 from audiocraft.models.loaders import (
     load_compression_model,
     load_lm_model,
-    HF_MODEL_CHECKPOINTS_MAP,
 )
 from audiocraft.data.audio import audio_write
 
